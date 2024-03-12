@@ -6,6 +6,7 @@ Welcome to the FiveM Vehicle Spawner script – a powerful Lua-based tool that a
 
 - **Configurability:** Easily add more vehicles, categories, and customize settings to suit your server's needs.
 - **User-Friendly:** Built with simplicity in mind, the script is easy to understand and navigate, making vehicle spawning a breeze for both administrators and players.
+- **Commands Customization:** Maybe /vs doesn't suit your server? Well with this script you can configure the command in the config.lua file.
 - **Integration Ready:** Future updates will introduce compatibility with various systems, including Hamster Systems FMS, offering additional functionality and seamless integration.
 - **Restart On The Go:** We've made this script in mind of the developer! This script can be restart in-game without having to restart the whole server.
 
