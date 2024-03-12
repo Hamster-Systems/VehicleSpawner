@@ -13,8 +13,6 @@ client_scripts {
 }
 
 files {
-    'config.lua'
+    'config.lua',
+    'NativeUI.dll'
 }
-
-
-dependency "NativeUI"
