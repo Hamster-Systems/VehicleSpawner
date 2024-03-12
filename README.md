@@ -19,6 +19,10 @@ Welcome to the FiveM Vehicle Spawner script – a powerful Lua-based tool that a
 
 **Feel free to contribute, report issues, or suggest improvements using our "Issues" Page!**
 
+## Support Us!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-HamsterSystems-orange)](https://www.buymeacoffee.com/hamstersystems)
+
 ## Discord Community:
 
 Join our Discord community to stay updated, seek support:
