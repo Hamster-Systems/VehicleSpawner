@@ -33,3 +33,9 @@ Looking for a US Community to join? State of California RP is actively recruitin
 [![Discord](https://img.shields.io/badge/Join%20Now-SCRP%20Community-green)](https://discord.gg/bTBn5njQtW)
 
 ## Preview of This Script
+Once you run the command you configured this will show!
+
+![When the command is ran](https://github.com/Hamster-Systems/VehicleSpawner/blob/main/Preview/1.png)
+![When the command is ran](https://github.com/Hamster-Systems/VehicleSpawner/blob/main/Preview/2.png)
+![When the command is ran](https://github.com/Hamster-Systems/VehicleSpawner/blob/main/Preview/3.png)
+![When the command is ran](https://github.com/Hamster-Systems/VehicleSpawner/blob/main/Preview/4.png)
